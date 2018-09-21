@@ -1,0 +1,13 @@
+body {
+background-color: aquamarine !important;
+}
+.cent {
+    margin-top: 40px !important;
+}
+h1 {
+    text-align: center !important;
+}
+ol{
+    text-align: center !important;
+    list-style-position: inside;
+}
